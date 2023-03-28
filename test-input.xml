@@ -1,0 +1,128 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Printed edition: Ācārya 1931:  Sūtrasthāna</title>
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>SARIT: Search and Retrieval of Indic Texts</authority>
+        <idno>2014-06-24</idno>
+        <availability status="restricted">
+          <p>Copyright Notice</p>
+          <p>Copyright (C) Tsutomu Yamashita and Yasutaka Muroya and SARIT. </p>
+          <p>
+            <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed
+              by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative
+              Commons Attribution-ShareAlike 3.0 Unported License. </ref>
+          </p>
+          <p>Under this licence, you are free<list>
+              <item>to Share — to copy, distribute and transmit the work</item>
+              <item>to Remix — to adapt the work </item>
+            </list></p>
+          <p>Under the following conditions:</p>
+          <p>
+            <list>
+              <item>Attribution — You must attribute the work in the manner specified by the author
+                or licensor (but not in any way that suggests that they endorse you or your use of
+                the work).</item>
+              <item>Share Alike — If you alter, transform, or build upon this work, you may
+                distribute the resulting work only under the same or similar license to this
+                one.</item>
+            </list>
+          </p>
+          <p>More information and fuller details of this license are given on the Creative Commons
+            website.</p>
+          <p>SARIT assumes no responsibility for unauthorised use that infringes the rights of any
+            copyright owners, known or unknown.</p>
+        </availability>
+        <date>2013-2016</date>
+
+      </publicationStmt>
+      <notesStmt>
+        <note type="footnote">Suśrutasaṃhitā (without commentaries) transcribed by Tsutomu Yamashita
+          and Yasutaka Muroya on the basis of Y. T. Ācārya's 1931 and 1938 Bombay editions</note>
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>The Suśrutasaṃhitā of Suśruta, with the Nibandhsangraha Commentary of Śrī
+            Ḍalhaṇācārya.</title>
+          <editor>Yādavaśarman Trivikramātmaja Ācārya</editor>
+          <publisher>Pāndurang Jāvaji</publisher>
+          <pubPlace>Bombay</pubPlace>
+          <date>1931</date>
+          <edition>Revised second edition</edition>
+          <note type="footnote">The sūtrasthāna (SS.1) and śārīrasthāna (SS.3) of this SARIT edition
+            are mainly based on this edition.</note>
+          <note type="footnote">This SARIT edition omits the commentarial material from this
+            edition.</note>
+        </bibl>
+        <bibl>
+          <title>Suśrutasamhitā of Suśruta with the Nibandhasaṅgraha Commentary of Śrī Ḍalhanāchārya
+            and the Nyāyacandrikā Pañjikā of Śrī Gayadāsāchārya on Nidānasthāna, edited from the
+            begining to the 9th ādhyāya of Cikitsāsthāna by Vaidya Jādavji Trikamji Āchārya and the
+            rest by Nārāyaṇ Rām Āchārya</title>
+          <editor role="sections:1.1-4.9">Yādavaśarman Trivikramātmaja Ācāryā</editor>
+          <editor role="sections:4.10-6.66">Nārāyaṇ Rām Āchārya</editor>
+          <publisher>Nirṇaya Sāgar Press</publisher>
+          <pubPlace>Bombay</pubPlace>
+          <date>1938</date>
+          <edition>Revised third edition</edition>
+          <edition>Reprint edition Varanasi/Delhi: Chaukhambha Orientalia, 1992.</edition>
+          <note>The nidānasthāna (SS.2), cikitsāsthāna (SS.4) , kalpasthāna (SS.5) and uttaratantra
+            (SS.6) are based on this edition</note>
+          <note>This SARIT edition omits the commentarial material from this edition.</note>
+        </bibl>
+
+        <msDesc xml:id="Sanskrit" xml:lang="en">
+          <msIdentifier>
+            <idno type="siglum">A</idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+
+    </fileDesc>
+    <revisionDesc>
+      <change when="2020-10-20" who="Dominik Wujastyk">Began adapting this file for collation
+        against Nepalese MSS. First, started removing the explicit verse numbers (between labels) </change>
+      <change when="2020-11-08" who="Dominik Wujastyk">Separated some conjuncts: śc and -iti and +a
+        to avagraha</change>
+
+      <change when="2021-07-15" who="Deepro Chakraborty">Added 1.28 of K and H and some corrections
+        in the vulgate (#44)</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text xml:lang="sa-Latn">
+
+    <body>
+      <div n="1" type="sthāna">
+
+        <div n="1" type="adhyāya">
+
+          <l xml:id="SS.1.1.0"/>
+
+          <l xml:id="SS.1.1.1">athāto vedotpattim adhyāyaṃ vyākhyāsyāmaḥ ||1|| </l>
+
+          <l xml:id="SS.1.1.2"><label>sū.1.2</label>yathovāca bhagavān dhanvantariḥ||2||</l>
+
+          <l xml:id="SS.1.1.3"><label>sū.1.3</label>atha khalu bhagavantam amaravaram
+            ṛṣigaṇaparivṛtam āśramasthaṃ kāśirājaṃ divodāsaṃ dhanvantarim aupadhenava<pc
+              > </pc>vaitaraṇaurabhra<pc> </pc>pauṣkalāvata<pc> </pc>-<ref rend="superscript
+              footnote               marker">1</ref>karavīrya<pc> </pc>gopurarakṣita<pc
+              > </pc>suśruta<pc> </pc>prabhṛtaya ūcuḥ ||3||<note type="footnote"> karavīra</note>
+          </l>
+
+
+          <p xml:id="SS.1.1">iti suśrutasaṃhitāyāṃ sūtrasthāne vedotpattir nāma prathamo 'dhyāyaḥ
+            ||</p>
+        </div>
+
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
